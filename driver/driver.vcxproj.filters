@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="memory.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="process.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="cleaning.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="eprocess.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="headers">
+      <UniqueIdentifier>{178340a6-85c7-42b7-8f1a-eaa5b2b443cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sources">
+      <UniqueIdentifier>{9380f465-4f08-43c2-a8dd-32da0213979b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="memory.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="undocumented.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="process.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="cleaning.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="unicode.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="xor.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="macro.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="eprocess.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="active_process.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
